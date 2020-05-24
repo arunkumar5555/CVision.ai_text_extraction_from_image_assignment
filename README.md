@@ -1,0 +1,1 @@
+# CVision.ai_text_extraction_from_image_assignment
